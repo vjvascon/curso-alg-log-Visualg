@@ -1,2 +1,2 @@
 # curso-alg-log-Visualg
-Projetos feitos no curso de Algorítmos &amp; Lógica ( Udemy ) em portugol, usando o Visualg
+Projetos do curso de Algorítmos &amp; Lógica ( Udemy ) em Portugol, usando o Visualg
